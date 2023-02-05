@@ -1,1 +1,22 @@
-[{"tenTruyen":"Ái Phi, Dao Của Nàng Rơi Rồi","tenChap":"52","linkAnh":"https://st.nettruyenup.com/data/comics/85/ai-phi-dao-cua-nang-roi-roi-3421.jpg"},{"tenTruyen":"Nghịch Thiên Tà Thần","tenChap":"598","linkAnh":"https://st.nettruyenup.com/data/comics/154/nghich-thien-ta-than.jpg"},{"tenTruyen":"Bạn học của tôi là lính đánh thuê","tenChap":"122","linkAnh":"https://st.nettruyenup.com/data/comics/220/ban-hoc-cua-toi-la-linh-danh-thue.jpg"},{"tenTruyen":"Bản Kiếm Tiên Tuyệt Không Làm Nô","tenChap":"59","linkAnh":"https://st.nettruyenup.com/data/comics/8/ban-kiem-tien-tuyet-khong-lam-no.jpg"}]
+[
+  {
+    tenTruyen: "Ái Phi, Dao Của Nàng Rơi Rồi",
+    tenChap: "52",
+    linkAnh: "https://st.nettruyenup.com/data/comics/85/ai-phi-dao-cua-nang-roi-roi-3421.jpg"
+  },
+  {
+    tenTruyen: "Nghịch Thiên Tà Thần",
+    tenChap: "598",
+    linkAnh: "https://st.nettruyenup.com/data/comics/154/nghich-thien-ta-than.jpg"
+  },
+  {
+    tenTruyen: "Bạn học của tôi là lính đánh thuê",
+    tenChap: "122",
+    linkAnh: "https://st.nettruyenup.com/data/comics/220/ban-hoc-cua-toi-la-linh-danh-thue.jpg"
+  },
+  {
+    tenTruyen: "Bản Kiếm Tiên Tuyệt Không Làm Nô",
+    tenChap: "59",
+    linkAnh: "https://st.nettruyenup.com/data/comics/8/ban-kiem-tien-tuyet-khong-lam-no.jpg"
+  }
+]
